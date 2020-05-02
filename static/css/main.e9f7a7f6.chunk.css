@@ -1,0 +1,2 @@
+.grid-container{display:grid;grid-template-columns:repeat(5,1fr);padding:20px;font-weight:700;font-size:x-large}.grid-element{border-style:outset;border-width:.01px;box-shadow:10px 10px 8px #888;border-right:5px solid #00f;padding:40px 20px;text-align:center;border-radius:15px}.grid-element:hover{box-shadow:15px 15px 10px #888}.textStyle{text-decoration:underline;font-weight:lighter;font-size:x-large}
+/*# sourceMappingURL=main.e9f7a7f6.chunk.css.map */
