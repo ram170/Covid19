@@ -1,0 +1,24 @@
+.grid-container-main-about {
+    /* display: grid; */
+    /* grid-template-columns: repeat(3, 1fr); */
+    /* grid-gap: 10px; */
+    font-weight: bold;
+    font-size: x-large;
+    overflow: hidden!important;
+    /* text-align: center; */
+}
+
+.grid-item-about {
+    /* text-align: center; */
+    /* padding: 5px 20px; */
+    /* border-right: 1px solid black; */
+    /* box-shadow: 5px 5px 3px #888888; */
+}
+
+.grid-item:hover {
+    /* box-shadow: 3px 3px 2px #888888; */
+}
+
+.subtext {
+    font-weight: normal;
+}
